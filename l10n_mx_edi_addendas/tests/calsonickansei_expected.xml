@@ -1,0 +1,9 @@
+<cfdi:Addenda xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Addenda>
+        <fa:Datos xmlns:fa="finanzas">
+            <fa:AddendaComercial>
+                <fa:Finanzas PO="0131" Linea="1" Part="FURN_7800" Moneda="MXN"/>
+            </fa:AddendaComercial>
+        </fa:Datos>
+    </Addenda>
+</cfdi:Addenda>
